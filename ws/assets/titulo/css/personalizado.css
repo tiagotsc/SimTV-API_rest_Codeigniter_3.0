@@ -1,0 +1,110 @@
+.semBorda{
+    font: 9px Arial;width: 666px;
+    margin-bottom: 40px;
+}
+
+.margemTop{
+    margin-top: 4px;
+}
+
+.tdEscura{
+    background-color: #ccc; 
+    padding: 5px;
+    vertical-align: text-top;
+}
+
+strong{
+    font-variant: small-caps; 
+    color: #363636;
+    display: block;
+}
+
+th{
+    text-align: left;
+}
+
+.colEstreira{
+    width: 20px;
+}
+
+.colLarga{
+    width: 100px;
+}
+
+.linhaTotal{
+    border-top: 1px solid;
+}
+
+.logoSimTv{
+    float:left; 
+    width: 150px;
+}
+
+#cabecalho span{
+    float:left; 
+    font-size: 12px; 
+    font-family: arial, verdana, sans-serif; 
+    margin-top: 20px; 
+    margin-left: 50px;
+}
+
+#detalhamento{
+    width: 666px;
+    margin-bottom: 25px;
+}
+
+#codigoBarras{
+    padding-top: 10px;
+}
+
+#autenticacao_mecanica{
+    text-align: right;
+}
+
+#instrucoes{
+	line-height: 150%;
+}
+
+.codigoBanco{
+    font: bold 20px Arial;
+}
+
+.linhaDigitavel{
+    font: bold 16px Arial;
+    text-align: right;
+}
+
+.lateralDireita{
+    border-right: 1px solid;
+}
+
+.tdTop{
+    vertical-align: top;
+}
+
+#autenticacao_mecanica{
+    text-align:right; 
+    font-size: 8px; 
+    font-family: sans-serif;
+}
+
+.barraTitulo{
+    margin: 0 auto;
+    background-color: #A9A9A9; 
+    font-size: 10px; 
+    padding: 3px;
+}
+
+.barraTitulo strong{
+    color: #1C1C1C;
+}
+
+#cabecalho{
+    margin-bottom: 25px;
+}
+
+#divBoleto{
+    width: 642px; 
+    margin-bottom: 30px; 
+    margin-top: 4px;
+}
